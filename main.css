@@ -48,6 +48,31 @@ h5.modal-title {
 	width: 82%;
 }
 
+.footerImg {
+	padding: 15px;
+}
+
+.fa {
+	margin: 10px;
+}
+
+.fa-facebook-square {
+	color: #3B5998;
+}
+
+.fa-google-plus-square {
+	color: #C32F10;
+}
+
+.fa-instagram {
+	color: #FFFFFF;
+}
+
+.socialWrapper {
+	margin: auto;
+}
+
+
 @media screen and (max-width: 680px) {
 	.btn.btnCenter{
 		width: 75%;
